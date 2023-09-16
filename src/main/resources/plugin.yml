@@ -1,0 +1,8 @@
+name: Practice
+author: CobelPvP Development Team
+version: 2.0
+main: com.cobelpvp.practice.Practice
+depend:
+  - Packets
+  - Atheneum
+  - Engine
